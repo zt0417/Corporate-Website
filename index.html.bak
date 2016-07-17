@@ -9,7 +9,7 @@
 <div class="top">
 	<div class="top_content">
 		<ul>
-			<li><a href="#">Contact Us</a></li>
+			<li>Contact Us</li>
 			<li><a href="#" onclick="AddFavorite(window.location, document.title)">Add to Favorite</a></li>
 			<li><a href="#" onclick="SetHome(window.loaction)">Set Homepage</a></li>
 		</ul>

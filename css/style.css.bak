@@ -30,8 +30,3 @@ body{
 	color:#8E8E8E;
 	text-decoration:none;
 }
-
-.top_content a:hover,.top_content a:active{
-	color:#900;
-	text-decoration:none;
-}
